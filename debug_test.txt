@@ -1,0 +1,5 @@
+polygon
+numvertices 3
+vertex 0	10 0 0
+vertex 1	0 10 0
+vertex 2	0 0 10 	
